@@ -1,0 +1,14 @@
+<svg width="640" height="640" viewBox="0 0 640 640" fill="none">
+<g id="Group 2">
+<g id="Component 1">
+<rect id="Rectangle 1" y="320" width="160" height="160" rx="20" fill="#003b6f"/>
+<rect id="Rectangle 2" x="160" y="160" width="160" height="160" rx="20" fill="#EDF5E1"/>
+<rect id="Rectangle 3" x="320" width="160" height="160" rx="20" fill="#5CDB95"/>
+<rect id="Rectangle 4" x="160" y="480" width="160" height="160" rx="20" fill="#EDF5E1"/>
+<rect id="Rectangle 5" x="320" y="320" width="160" height="160" rx="20" fill="#5CDB95"/>
+<rect id="Rectangle 6" x="480" y="160" width="160" height="160" rx="20" fill="#003b6f"/>
+<circle id="Ellipse 1" cx="400" cy="240" r="80" fill="#9DE7D9"/>
+<circle id="Ellipse 2" cx="240" cy="400" r="80" fill="#379683"/>
+</g>
+</g>
+</svg>
