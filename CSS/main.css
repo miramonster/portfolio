@@ -18,6 +18,7 @@ ul {
 html {
   font-size: 16px;
   font-family: Arial;
+  overflow-x: hidden;
 }
 
 a {
