@@ -61,7 +61,7 @@ img {
   -webkit-box-pack: space-evenly;
       -ms-flex-pack: space-evenly;
           justify-content: space-evenly;
-  max-height: 5.2em;
+  max-height: 5.4em;
   overflow-x: hidden;
 }
 

@@ -53,7 +53,7 @@ img {
   flex-flow: row nowrap;
   padding: 1em;
   justify-content: space-evenly;
-  max-height: 5.2em;
+  max-height: 5.4em;
   overflow-x: hidden;
   a {
     color: #003b6f;
@@ -225,7 +225,7 @@ section#info {
 
 //featured image
 //position: absolute; right: 11em; top: -3em;
-// @media only screen and (min-width: 800px) {
+// @media only screen and (min-width: 750px) {
 //     .featured {
 //         display: grid;
 //         grid-template-columns: repeat(2, auto);
