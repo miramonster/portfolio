@@ -44,6 +44,10 @@ img {
 .linkInPng {
   margin-right: -1em;
 }
+.transition2{
+    max-width: 500px;
+    min-height: 360px;
+}
 
 .nav-container {
   background: #4bda8b;
@@ -204,6 +208,7 @@ section {
     .featured-desc skill-desc {
       margin-bottom: 3em;
       font-weight: lighter;
+     
     }
   }
 }
